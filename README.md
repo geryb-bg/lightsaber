@@ -109,3 +109,7 @@ So that the script starts up every time you reboot the pi use [PM2](https://pm2.
 - Make sure it runs on startup:
     - `sudo pm2 startup`
     - `sudo pm2 save`
+
+## Other links
+
+- [3D model](https://ultimaker.com/learn/3d-printed-lightsaber-design-philosophy-and-printing-tips)
