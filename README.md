@@ -1,8 +1,4 @@
-# Lightsaber projects
-
-## Nordic Thingy:52 Prototype (thingy-poc)
-
-More details in this blog post: https://medium.com/@gerybbg/lightsaber-prototyping-with-the-nordic-thingy-52-890d54493b86
+# Lightsaber
 
 ## Raspberry Pi Zero Setup
 
@@ -113,3 +109,6 @@ So that the script starts up every time you reboot the pi use [PM2](https://pm2.
 ## Other links
 
 - [3D model](https://ultimaker.com/learn/3d-printed-lightsaber-design-philosophy-and-printing-tips)
+- Article: [Lightsaber prototyping with the Nordic Thingy:52](https://medium.com/@gerybbg/lightsaber-prototyping-with-the-nordic-thingy-52-890d54493b86)
+- Article: [Lights and sounds with the Raspberry Pi Zero](https://medium.com/@gerybbg/lights-and-sounds-with-the-raspberry-pi-zero-d048f0c6983b)
+- Talk: [So you wanna build a lightsaber?](https://www.youtube.com/watch?v=pAVG7oWOD-M)
