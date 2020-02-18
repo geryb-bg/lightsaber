@@ -1,4 +1,4 @@
-const ADXL345 = require('../adxl/adxl');
+const ADXL345 = require('./lib/adxl');
 const adxl345 = new ADXL345();
 
 const initSensor = async () => await adxl345.init();
